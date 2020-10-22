@@ -1,0 +1,3 @@
+/home/adithya/Desktop/Segmentation_Flight/build/CMakeFiles/edit_cache.dir
+/home/adithya/Desktop/Segmentation_Flight/build/CMakeFiles/rebuild_cache.dir
+/home/adithya/Desktop/Segmentation_Flight/build/CMakeFiles/flight_segmentation.dir
